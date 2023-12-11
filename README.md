@@ -5,8 +5,7 @@ Makes you type in a discord channel 24/7.
 ## 📝 How to use
 
 - Edit the channel ID and the TOKEN in the `main.py` file
-- run the `install.bat` file to install the requirements
-- run the `main.py` file
+- run the `run.bat` file to install the requirements and automatically run the `main.py` file.
 
 > [!IMPORTANT]  
 > Remember to change the channel ID and the token in the `main.py` file.
