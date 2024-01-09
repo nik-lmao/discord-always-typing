@@ -2,10 +2,14 @@
 
 Makes you type in a discord channel 24/7.
 
+## 📋 Requirements
+
+- You'll need to have **[python](https://www.python.org)** installed.
+
 ## 📝 How to use
 
 - Edit the channel ID and the TOKEN in the `main.py` file
-- run the `run.bat` file to install the requirements and automatically run the `main.py` file.
+- Run the `run.bat` file to install the requirements. After installing the requirements, the `main.py` file is executed automatically.
 
 <br>
 
